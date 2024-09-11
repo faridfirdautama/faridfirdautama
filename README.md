@@ -1,19 +1,19 @@
-<div id="header" align="center">
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3o1Z2FxMDEzdXU0MTV0eHh6aHlrOGF2MWh4dWw1b2xxbXh0dXQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.gif' width='100' />
-</div>
-<div id="badges" align='center'>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-<div></div>
-<div></div>
-  Hi 👋
-  I'm Farid
-**faridfirdautama/faridfirdautama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⭐︎ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-Here are some ideas to get you started:
+## I am Farid
+### A freelancer of fullstack web developer
+A coder loved to MERN stack technologies and passioned to learn new stuff.
 
+#### Find me on :
+<a href="https://www.linkedin.com/in/farid-firda-utama-40462354/" target="_blank">
+  <img width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" alt="Linkedin Badge"/>
+</a>
+<a href="https://x.com/faridfirdautama" target="_blank">
+  <img width="22px" margin="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" alt="Twitter Badge"/>
+</a>
+
+
+<!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->
